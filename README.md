@@ -1,16 +1,11 @@
 # gamershub
 
-A new Flutter project.
+A new Flutter project by group 5.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Gamer's Hub is a mobile application designed for the gaming community. The app aims
+to provide a centralized platform for gamers to browse through various games, read reviews, get
+information, ratings and connect with other gamers. With the increasing number of gamers
+worldwide and the growing demand for a comprehensive platform to find and connect with other
+gamers, Gamer's Hub provides an ideal solution for the gaming community.
